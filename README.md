@@ -203,4 +203,3 @@ Football MatchUp aims to solve the common problem of organizing amateur football
 
 **Built with ❤️ for the football community**
 
-🚀 **Live Demo**: Running on http://localhost:3001
